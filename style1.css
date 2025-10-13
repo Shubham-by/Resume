@@ -85,8 +85,8 @@ h1,h2,h3,h4 {
 }
 
 .left-black h2 {
-    margin-bottom: 10%;
-    margin-top: 15%;
+    margin-bottom: 9%;
+    margin-top: 12%;
     display: inline-block;
     border-bottom: 3px solid transparent;
     border-image: linear-gradient(to right, #feb47f , #ff7e5f);
@@ -148,4 +148,5 @@ h1{
     text-align: center;
     font-family: fantasy;
 }
+
 
