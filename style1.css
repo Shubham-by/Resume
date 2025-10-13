@@ -85,7 +85,7 @@ h1,h2,h3,h4 {
 }
 
 .left-black h2 {
-    margin-bottom: 9%;
+    margin-bottom: 8%;
     margin-top: 12%;
     display: inline-block;
     border-bottom: 3px solid transparent;
@@ -148,5 +148,6 @@ h1{
     text-align: center;
     font-family: fantasy;
 }
+
 
 
